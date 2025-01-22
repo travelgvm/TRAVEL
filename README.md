@@ -1,20 +1,20 @@
-# <h1 style="text-align:center; color:#179297;">Obiwan - GVM Library</h1>
+# <h1 style="text-align:center; color:#179297;">travel - GVM Library</h1>
 
-# Introduction to the `obiwan` Library
+# Introduction to the `travel` Library
 
 Welcome to the introduction of the `obiwan` library! This library was developed to assist with specific tasks in our project, optimizing common Python workflows and offering an intuitive interface with practical functions to streamline our daily tasks. Let's dive into the features of `obiwan` so we can explore it together.
 
 
 ### Purpose of the Library
 
-The `obiwan` library was created with the following goals in mind:
+The `travel` library was created with the following goals in mind:
 - **Automate repetitive processes:** Reduce the need to write repetitive code by simplifying common tasks within the project.
 - **Boost team productivity:** With ready-to-use functions, `obiwan` allows us to focus on critical parts of the project while handling supporting tasks more efficiently.
 - **Facilitate maintenance and collaboration:** By centralizing essential functionalities, the codebase becomes more modular and easier to maintain, making it simpler for new team members to integrate.
 
 ### Key Features
 
-The `obiwan` library includes a variety of functions that help in different areas of our workflow, such as:
+The `travel` library includes a variety of functions that help in different areas of our workflow, such as:
 
 1. **Data manipulation and analysis:** Functions for data cleaning, transformation, and analysis, allowing us to quickly preprocess and explore data.
 2. **Task automation:** Scripts to automate repetitive processes and reduce manual effort, making our workflows more efficient and consistent.
