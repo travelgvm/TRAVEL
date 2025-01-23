@@ -9,7 +9,7 @@ Welcome to the introduction of the `obiwan` library! This library was developed 
 
 The `travel` library was created with the following goals in mind:
 - **Automate repetitive processes:** Reduce the need to write repetitive code by simplifying common tasks within the project.
-- **Boost team productivity:** With ready-to-use functions, `obiwan` allows us to focus on critical parts of the project while handling supporting tasks more efficiently.
+- **Boost team productivity:** With ready-to-use functions, `travel` allows us to focus on critical parts of the project while handling supporting tasks more efficiently.
 - **Facilitate maintenance and collaboration:** By centralizing essential functionalities, the codebase becomes more modular and easier to maintain, making it simpler for new team members to integrate.
 
 ### Key Features
@@ -22,11 +22,11 @@ The `travel` library includes a variety of functions that help in different area
 4. **Statistical tests:** A set of functions for performing common statistical tests, enabling quick hypothesis testing and statistical validation within our data.
 5. **Machine Learning workflows:** Built-in utilities for machine learning, including data preparation functions, model evaluation metrics, and wrappers for popular ML algorithms, simplifying the end-to-end ML pipeline.
 
-These features allow the `obiwan` library to cover a broad range of tasks, making it a versatile and powerful tool in our project toolkit.
+These features allow the `travel` library to cover a broad range of tasks, making it a versatile and powerful tool in our project toolkit.
 
 ### Notebook Structure
 
 This notebook is organized into the following sections:
-1. **Installation and Setup** - Instructions on installing and setting up `obiwan`.
+1. **Installation and Setup** - Instructions on installing and setting up `travel`.
 2. **Usage Examples** - Practical examples to illustrate each functionality.
 3. **References and Documentation** - Helpful links and additional information for further exploration of the library.
